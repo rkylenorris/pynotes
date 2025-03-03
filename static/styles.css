@@ -1,0 +1,23 @@
+.inknut-antiqua-light {
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .inknut-antiqua-regular {
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .inknut-antiqua-bold {
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  body {
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
